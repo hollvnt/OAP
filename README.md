@@ -1,1 +1,1 @@
-# OAP Yaskovich Mark, POIT 6
+# OOP Yaskovich Mark, 2 kurs, POIT 6-2
